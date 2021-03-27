@@ -1,0 +1,4 @@
+{
+    "mongoURI":  "mongodb+srv://noarrassam:1234@noorrassam.dsxfa.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
